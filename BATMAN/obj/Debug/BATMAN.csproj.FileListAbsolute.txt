@@ -1,0 +1,99 @@
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\bin\Debug\BATMAN.exe.config
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\bin\Debug\BATMAN.exe
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\bin\Debug\BATMAN.pdb
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.frmAddGameOfficial.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.frmGameOfficial.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.frmMain.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.frmMatch.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.frmSaveTeam.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.frmSaveTournament.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.frmSaveTeamOfficial.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.frmTournamentDetail.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.frmViewPlayer.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.frmViewTeam.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.frmViewTeamOfficial.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.frmViewTournament.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.frnSavePlayer.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.Properties.Resources.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.UCMatch.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.UCPlayer.resources
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.csproj.GenerateResource.Cache
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.exe
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.pdb
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\obj\Debug\BATMAN.csprojResolveAssemblyReference.cache
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\bin\Debug\EPPlus.dll
+C:\Users\JOSHUA\Documents\Visual Studio 2015\Projects\BATMAN\BATMAN\bin\Debug\EPPlus.xml
+F:\BATMAN\BATMAN\bin\Debug\BATMAN.exe.config
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.exe
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.pdb
+F:\BATMAN\BATMAN\bin\Debug\BATMAN.exe
+F:\BATMAN\BATMAN\bin\Debug\BATMAN.pdb
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.csprojResolveAssemblyReference.cache
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.frmAddGameOfficial.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.frmGameOfficial.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.frmMain.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.frmMatch.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.frmSaveTeam.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.frmSaveTournament.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.frmSaveTeamOfficial.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.frmTournamentDetail.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.frmViewPlayer.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.frmViewTeam.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.frmViewTeamOfficial.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.frmViewTournament.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.frnSavePlayer.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.Properties.Resources.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.UCMatch.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.UCPlayer.resources
+F:\BATMAN\BATMAN\obj\Debug\BATMAN.csproj.GenerateResource.Cache
+F:\BATMAN\BATMAN\bin\Debug\Bunifu_UI_v1.52.dll
+D:\BATMAN\BATMAN\bin\Debug\BATMAN.exe.config
+D:\BATMAN\BATMAN\bin\Debug\BATMAN.exe
+D:\BATMAN\BATMAN\bin\Debug\BATMAN.pdb
+D:\BATMAN\BATMAN\bin\Debug\Bunifu_UI_v1.52.dll
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.csprojResolveAssemblyReference.cache
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.frmAddGameOfficial.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.frmGameOfficial.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.frmMain.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.frmMatch.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.frmSaveTeam.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.frmSaveTournament.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.frmSaveTeamOfficial.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.frmTournamentDetail.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.frmViewPlayer.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.frmViewTeam.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.frmViewTeamOfficial.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.frmViewTournament.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.frnSavePlayer.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.Properties.Resources.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.UCMatch.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.UCPlayer.resources
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.csproj.GenerateResource.Cache
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.exe
+D:\BATMAN\BATMAN\obj\Debug\BATMAN.pdb
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.csprojResolveAssemblyReference.cache
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frmAddGameOfficial.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frmGameOfficial.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frmMain.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frmMatch.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frmSaveTeam.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frmSaveTournament.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frmSaveTeamOfficial.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frmTournamentDetail.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frmViewPlayer.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frmViewTeam.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frmViewTeamOfficial.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frmViewTournament.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frnSavePlayer.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.Properties.Resources.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.UCMatch.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.UCPlayer.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.csproj.GenerateResource.Cache
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.exe
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.pdb
+F:\BATMAN - Copy\BATMAN\bin\Debug\BATMAN.exe.config
+F:\BATMAN - Copy\BATMAN\bin\Debug\BATMAN.exe
+F:\BATMAN - Copy\BATMAN\bin\Debug\BATMAN.pdb
+F:\BATMAN - Copy\BATMAN\bin\Debug\Bunifu_UI_v1.52.dll
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.frmSaveGameStats.resources
+F:\BATMAN - Copy\BATMAN\obj\Debug\BATMAN.UCPlayerStat.resources
